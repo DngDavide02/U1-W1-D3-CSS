@@ -1,0 +1,88 @@
+@import url("https://fonts.googleapis.com/css2?family=Domine:wght@400..700&display=swap");
+body {
+  color: #333333;
+  font-family: "Domine", serif;
+}
+
+header div {
+  text-align: center;
+}
+
+header div img {
+  width: 15rem;
+  margin-top: 1rem;
+}
+
+header div p {
+  border-top: solid 0.1rem;
+  background-color: #fdfbf1;
+  border-color: #ffd877;
+  margin-top: 2rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  color: #004d4c;
+  margin-bottom: 5rem;
+}
+
+header div p strong {
+  font-weight: 900;
+}
+
+main div {
+  width: 50rem;
+  margin: auto;
+}
+
+#main-title {
+  font-size: 2.5rem;
+  text-align: center;
+  font-weight: 900;
+}
+
+main div img {
+  border-radius: 1rem;
+  box-shadow: 5px 5px 5px #dbe0e3;
+}
+
+.author {
+  text-align: center;
+  color: #a5a4a4;
+}
+
+.featured {
+  border-left: solid 0.1rem #ffd877;
+  padding-left: 1rem;
+  margin-bottom: 5rem;
+}
+
+.featured p {
+  color: #b5460f;
+}
+
+.featured a {
+  color: #107777;
+}
+
+h1 {
+  font-weight: 500;
+}
+
+ul li {
+  padding-bottom: 1.5rem;
+}
+
+h3 {
+  font-weight: 900;
+}
+
+ol li {
+  font-weight: 900;
+}
+
+.end-page a {
+  color: #107777;
+}
+
+hr {
+  border: 1px solid #c4f3f2;
+}
