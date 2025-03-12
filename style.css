@@ -39,9 +39,10 @@ main div {
   font-weight: 900;
 }
 
-main div img {
+main div video {
   border-radius: 1rem;
   box-shadow: 5px 5px 5px #dbe0e3;
+  width: 100%;
 }
 
 .author {
